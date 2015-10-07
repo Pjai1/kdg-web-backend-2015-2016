@@ -239,3 +239,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 31. Ben Vaes
 	- email: ben.vaes@student.kdg.be
 	- GitHub: https://github.com/BenVaes/
+	
+32. Jonas Van Eeckhout
+	- email: ulti40@hotmail.com
+	- GitHub: https://github.com/Pjai1
